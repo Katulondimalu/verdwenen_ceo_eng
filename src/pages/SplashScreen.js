@@ -27,7 +27,7 @@ const SplashScreen = () => {
           marginRight: 16,
         }}
       >
-        <h2>{t('Patient 0')}</h2>
+        <h2>{t('The Lost CEO')}</h2>
       </div>
       <img
         // @ts-ignore
