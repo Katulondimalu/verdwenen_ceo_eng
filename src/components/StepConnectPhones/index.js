@@ -29,7 +29,7 @@ const StepConnectPhones = ({
     >
       <DevButton onClick={onNext} />
 
-      <h1 style={{ textAlign: 'center' }}>{t('The Lost CEO')}</h1>
+      <h1 style={{ textAlign: 'center' }}>{t('Patient 0')}</h1>
       <div style={{ minHeight: 16 }} />
       <div
         style={{

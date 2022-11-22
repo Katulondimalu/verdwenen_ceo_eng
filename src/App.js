@@ -27,7 +27,7 @@ const App = () => {
     if (!was_connected) {
       set_was_connected(is_connected);
     }
-    document.title = 'The Lost CEO';
+    document.title = 'Patient 0';
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [is_connected]);
 
