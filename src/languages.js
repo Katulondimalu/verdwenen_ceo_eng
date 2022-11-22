@@ -2,13 +2,13 @@ import { with_translation } from './utils/use';
 
 export let translations = {
   'The Box': {
-    nl: 'Patient 0',
+    nl: 'The Lost CEO',
   },
   'The box of': {
     nl: 'De kist van',
   },
   '#workhardplaysmart': {
-    nl: 'Patient 0',
+    nl: 'The Lost CEO',
   },
   Enter: {
     nl: 'Enter',
@@ -174,22 +174,22 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-001.mp3?alt=media&token=d8c61754-8a78-47ab-a663-d627a7c62e27',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-001.mp3?alt=media&token=c6437228-a669-408d-843e-f7d19ba5fdd2',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-002.mp3?alt=media&token=47797845-3bab-416b-8dba-683a5c53a8cc',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-002.mp3?alt=media&token=9731a1ae-bde4-48e7-9527-d81182ca6801',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-003.mp3?alt=media&token=df42bfb2-4251-4d70-b206-b33a49db6923',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-003.mp3?alt=media&token=671a27c1-c652-4e05-bfac-10c251c7c4e8',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-004.mp3?alt=media&token=0c1e5617-9801-405a-857a-4a19eeb6d994',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-004.mp3?alt=media&token=b8097173-ef0e-4c8e-81cc-3c54eac47477',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-005.mp3?alt=media&token=086c6868-c3d8-43a4-b0d1-01e3677780a6',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-005.mp3?alt=media&token=dd9352a3-a386-45d8-bd34-28c10009b810',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-006.mp3?alt=media&token=276dfc6f-61d4-433d-8c4c-6258c1a6ebf2',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-006.mp3?alt=media&token=4e28d264-4c94-43ce-a6e3-c12bf9c3d053',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
